@@ -3,7 +3,7 @@ body{
 font-size: 23px;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
-border:white solid 10px;
+border:white solid 10px double;
 line-height: 1;
 color: rgb(0, 0, 0);
 }
