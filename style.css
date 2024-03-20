@@ -9,5 +9,7 @@ color: rgb(0, 0, 0);
 }
 h1{
 color: ghostwhite;
-
+}
+p{
+    font-size: 18px;
 }
